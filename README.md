@@ -59,7 +59,7 @@ The objectives for this lab are the following:
 
 ## Example interaction
 
-[Here's](/doc/sample_interaction.md) what your shell should be able to do by the
+[Here's](doc/sample_interaction.md) what your shell should be able to do by the
 end of the lab. Note that I run the program from my bash shell first, and then
 all interactions are with my shell.
 
